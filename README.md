@@ -1,4 +1,4 @@
-# Hi there! I'm Alex Derduron 👋
+# Hi there! I'm Alex H (derduron) 👋
 
 ### 🌐 [Visit my Live Portfolio & R&D Showcase](https://derduron.github.io/my-portfolio/)
 
