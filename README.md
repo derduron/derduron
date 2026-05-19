@@ -9,8 +9,8 @@ I am a cross-disciplinary **IoT Fullstack & Hardware Engineer** specializing in 
 ## 🛠️ Technological Stack & Ecosystem
 
 ### 📐 Hardware & EDA (Electronics Design Automation)
-*   **Altium Designer:** (https://img.shields.io/badge/Altium_Designer-A52A2A?style=for-the-badge&logo=altium&logoColor=white)
-*   **KiCad:** https://img.shields.io/badge/KiCad-0047AB?style=for-the-badge&logo=kicad&logoColor=white
+*   **Altium Designer:** <img src="https://img.shields.io/badge/Altium_Designer-A52A2A?style=for-the-badge&logo=altium&logoColor=white" alt="Altium Designer" />
+*   **KiCad:** (https://img.shields.io/badge/KiCad-0047AB?style=for-the-badge&logo=kicad&logoColor=white)
 *   **PCB Layout:** https://img.shields.io/badge/PCB_Layout-High--Density_HDI-success?style=for-the-badge
 
 ### ⚙️ CAD & Mechanical Prototyping
