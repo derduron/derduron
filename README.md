@@ -46,7 +46,8 @@ I am fully equipped to drive complex projects through every stage of development
 
 ## 📬 Connect With Me
 
-* **Portfolio Website:** [derduron.github.io/my-portfolio/](https://derduron.github.io/my-portfolio/)
+* **About me Website:** [derduron.github.io/my-portfolio/](https://derduron.github.io/my-portfolio/)
 * **Inquiries:** Please feel free to open a discussion or contact me via my portfolio contact links.
+* **My Studio:** [HiLogic.dev](https://hilogic.dev/)
 
 *Note: Most of my commercial code and production schematics are under strict non-disclosure agreements (NDA) and cannot be made public. Please refer to my [Live Portfolio](https://derduron.github.io/my-portfolio/) for verified architecture overviews and lab photo case studies.*
